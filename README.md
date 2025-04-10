@@ -1,6 +1,7 @@
 A Bot That Allows The Server Owner To Share Files That Have Been Added Or Removed.
 There Is Still A Delay Before The Messages Get Sent, However This Is Practially Unnoticable And Is Being Worked On To Remove This So It Is Instant.
 All Config Can Be Done Within The Code Itself.
+If There Are Any Issues, Open An Issue Within This Repo And I'll Be More Than Happy To Look Over It.
 
 **EXAMPLE IMAGES**
 
